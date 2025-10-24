@@ -2,7 +2,7 @@
 My project is about how AI helps programmers write code
 # 🤖 AI in Programming
 
-**Author:** Ivan Petrov (ID: 12345)
+**Author:** kyrylo shuliatiev
 
 ## About the Video
 This video explains how artificial intelligence (for example, GitHub Copilot and ChatGPT) helps programmers write code.  
