@@ -9,7 +9,7 @@ This video explains how artificial intelligence (for example, GitHub Copilot and
 AI makes work faster and easier, but it sometimes makes mistakes — so it’s important to check the results carefully.
 
 ## Video
-👉 [YouTube Link](https://youtu.be/example)
+👉 [YouTube Link]([https://youtu.be/example](https://youtube.com/shorts/7riOGJ5zwi4?feature=share))
 
 ## Discussion Question
 > If AI can write code, why do we still need programmers?
