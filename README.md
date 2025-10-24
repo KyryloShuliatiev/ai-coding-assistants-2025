@@ -1,2 +1,15 @@
 # ai-coding-assistants-2025
 My project is about how AI helps programmers write code
+# 🤖 AI in Programming
+
+**Author:** Ivan Petrov (ID: 12345)
+
+## About the Video
+This video explains how artificial intelligence (for example, GitHub Copilot and ChatGPT) helps programmers write code.  
+AI makes work faster and easier, but it sometimes makes mistakes — so it’s important to check the results carefully.
+
+## Video
+👉 [YouTube Link](https://youtu.be/example)
+
+## Discussion Question
+> If AI can write code, why do we still need programmers?
